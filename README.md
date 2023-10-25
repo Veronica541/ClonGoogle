@@ -1,5 +1,5 @@
 # ClonGoogle
-Proyecto creado por la **Ingeniera Laura Veronica Tlatelpa Romero en TecnolochicasPro. Creado gracias al Bootcamp de gran aprendizaje, importido por la Ingeniera Anel Montes de Oca**
+Proyecto creado por la **Ingeniera Laura Veronica Tlatelpa Romero en TecnolochicasPro. Creado gracias al Bootcamp de gran aprendizaje, importido por la mentora Anel Montes de Oca**
 ****
 1.- Intro 
 El proyecto mostrado fuye creado con **HTML y CSS** considerando que es el navegador más interactuado, interfaz Google. 
